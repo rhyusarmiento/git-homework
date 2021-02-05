@@ -1,3 +1,3 @@
-console.log('Hi from local')
+console.log('Hi')
 let name = 'rhyu'
 console.log('it works')
